@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PunkBeers</string>
+    <string name="arg_beer_id">ARTICLE_ID</string>
+</resources>
